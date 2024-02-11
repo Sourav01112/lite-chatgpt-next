@@ -6,7 +6,7 @@ export default function Home() {
    <div>
     <Head>
       <title>Lite ChatGPT</title>
-      <h1>building....</h1>
+      <h1>building chat</h1>
     </Head>
    </div>
   );
