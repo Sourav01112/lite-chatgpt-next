@@ -2,3 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+.custom-link {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 4px;
+  color: white;
+  background-color: #3c46ff;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.custom-link:hover {
+  background-color: #2941b6; 
+}
